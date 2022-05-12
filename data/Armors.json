@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"提升少量魔法攻击","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":144,"name":"智力手镯","note":"","params":[0,0,0,0,5,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"可以拿在手里的小盾牌。\n可以略微提高装备者的防御力。","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"小盾牌","note":"","params":[0,0,0,3,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"其他天使佩戴过的发饰。\n提高一定的魔法力。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"天使的装饰","note":"","params":[5,5,0,0,3,0,0,1],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
